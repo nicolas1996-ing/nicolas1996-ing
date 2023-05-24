@@ -6,7 +6,7 @@ Mi nombres es José Nicolás Aristizabal Ramirez, Ingeniero Mecatronico 📚 y d
 - Desarrollo back-end con Node.js, Express.js & Nest.js 💡
 - Devops 🖥
 - Bases de datos relacionales y no relacionales 🗂
-- HTML, CSS & JS
+- HTML, CSS & JS 🎨
 - Python, Java & Javascript 📌
 
 Me apasiona el mundo tech y el trabajo en equipo, soy una persona que constantemente se está actualizando y buscando respuesta a todos las incertidumbres que se derivan de mi trabajo diario como desarrollador. Responsabilidad y puntualidad pueden definir los pilares sobre los cuales baso mi vida.  Soy ingeniero por profesion y me considero profesor por vocación, disfruto mucho interactuar con otras personas y sembrar semillas de cambio. Disfruto mucho de las matematicas, la lectura critica y la filosofia. Si crees que podemos hacer match no dudes en contactarme:
