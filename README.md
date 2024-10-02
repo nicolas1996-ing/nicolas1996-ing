@@ -1,5 +1,5 @@
 ## Bienvenidos 👋
-Soy Ingeniero Mecatrónico, desarrollador de software especializado en Ruby on Rails, tecnologias basadas en JavaScript, y docente universitario. Mi interés profesional se centran en las siguientes áreas:
+Soy Ingeniero Mecatrónico, desarrollador de software especializado en Ruby on Rails, tecnologias basadas en JavaScript, y docente universitario. Mis intereses profesionales se centran en las siguientes áreas:
 
 - Desarrollo full-stack con Ruby on Rails ♦️
 - Docencia en temas de desarrollo de software 📚
