@@ -1,33 +1,27 @@
 ## Bienvenidos 👋
+Soy Ingeniero Mecatrónico, desarrollador de software especializado en Ruby on Rails, tecnologias basadas en JavaScript, y docente universitario. Mi interés profesional se centran en las siguientes áreas:
 
-Ingeniero Mecátronico, desarrollador de software y docente universitario con intereses profesionales relacionados con las siguientes áreas:
+- Desarrollo full-stack con Ruby on Rails ♦️
+- Docencia en temas de desarrollo de software 📚
+- Aprendizaje y perfeccionamiento en lenguajes como Ruby, JavaScript y Python 📌
 
-- Desarrollo full-stack con Ruby on Rails
-- Desarrollo front-end con Angular & React.js 💻
-- Desarrollo back-end con Node.js, Express.js & Nest.js 💡
-- Bases de datos relacionales y no relacionales 🗂
-- Devops 🖥
-- Ruby, JavaScript y Python 📌
+Tengo una sólida base en tecnologías de back-end y front-end, así como en la implementación de bases de datos relacionales y no relacionales. Disfruto la enseñanza porque me permite compartir conocimientos y ayudar a otros a crecer profesionalmente, algo que considero parte esencial de mi vocación.
 
-Responsabilidad y puntualidad pueden definir los pilares sobre los cuales baso mi vida.  Soy ingeniero por profesion y me considero docente por vocación, disfruto mucho interactuar con otras personas y sembrar semillas de cambio. Algunos de mis hobbies son las matematicas, la lectura critica y la filosofia. Si crees que podemos hacer match no dudes en contactarme:
+Algunos de mis hobbies incluyen la lectura crítica, las matemáticas y la filosofía. Si compartes algunos de estos intereses o crees que podemos colaborar, no dudes en contactarme:
 
-- Linkedin: https://www.linkedin.com/in/jose-nicolas-aristizabal-ramirez-ingeniero
+- LinkedIn: https://www.linkedin.com/in/jose-nicolas-aristizabal-ramirez-ingeniero
 - Email: josenicolasaristizabalramirez@gmail.com
 
 ## Welcome 👋
+Hi, I'm Nicolas. I'm a Mechatronic Engineer, Ruby on Rails software developer, and university instructor. My professional interests are focused on:
 
-I am Nicolas. An Mechatronic engineer and Software Developer, with experience in back-end and front-end technologies, agile methodologies, and code version control systems ( Git and Github). I have knowledge in layout and web design managing front-end frameworks such as Angular and ReactJs, and in the back-end I have been used nodeJs and Java, and database SQL y NoSQL. I have worked in development process company and personal projects. I have experience in startups and traditional companies. Passionate about Tech education and constant self-learning. I am interested in technological education projects, freelance jobs and new opportunities that help me increase my technical and soft skills if you know about these please contact me.
+- Full-stack development with Ruby on Rails ♦️
+- Teaching software development 📚
+- Learning and improving programming languages like Ruby, JavaScript, and Python 📌
 
-<!--
-**nicolas1996-ing/nicolas1996-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have strong experience in both back-end and front-end technologies, and I also work with relational and non-relational databases. As a teacher, I am passionate about sharing knowledge and helping others grow in their professional journey, which is an essential part of my vocation.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I enjoy critical reading, mathematics, and philosophy. If you think we could collaborate or share similar interests, feel free to reach out:
+
+- LinkedIn: https://www.linkedin.com/in/jose-nicolas-aristizabal-ramirez-ingeniero
+- Email: josenicolasaristizabalramirez@gmail.com
