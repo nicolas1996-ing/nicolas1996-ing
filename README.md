@@ -25,6 +25,6 @@ Mechatronic Engineer, software developer, and educator with over 3 years of expe
 
 
 ### :zap: Actividad reciente 
-<!-- RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 
-<!-- RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update-->
