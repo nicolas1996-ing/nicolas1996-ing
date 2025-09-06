@@ -26,13 +26,13 @@ Mechatronic Engineer, software developer, and educator with over 3 years of expe
 
 ### :zap: Actividad reciente 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [20250801-ucp-ciaf/20250828-servicios-web-manipulacion-dom](https://github.com/20250801-ucp-ciaf/20250828-servicios-web-manipulacion-dom)<br>
+1. 📔 Created new repository [nicolas1996-ing/quotes-managment-](https://github.com/nicolas1996-ing/quotes-managment-)<br>
 2. ⬆️ Pushed 1 commit(s) to [20250801-ucp-ciaf/20250828-servicios-web-manipulacion-dom](https://github.com/20250801-ucp-ciaf/20250828-servicios-web-manipulacion-dom)<br>
-3. 📔 Created new repository [20250801-ucp-ciaf/20250902-programacion-IV-gifsApp](https://github.com/20250801-ucp-ciaf/20250902-programacion-IV-gifsApp)<br>
-4. ⬆️ Pushed 1 commit(s) to [nicolas1996-ing/01-intro](https://github.com/nicolas1996-ing/01-intro)<br>
-5. ⬆️ Pushed 1 commit(s) to [20250801-ucp-ciaf/202850807-ciaf-semestre-2-programacion-y-servicios-web](https://github.com/20250801-ucp-ciaf/202850807-ciaf-semestre-2-programacion-y-servicios-web)<br>
+3. ⬆️ Pushed 1 commit(s) to [20250801-ucp-ciaf/20250828-servicios-web-manipulacion-dom](https://github.com/20250801-ucp-ciaf/20250828-servicios-web-manipulacion-dom)<br>
+4. 📔 Created new repository [20250801-ucp-ciaf/20250902-programacion-IV-gifsApp](https://github.com/20250801-ucp-ciaf/20250902-programacion-IV-gifsApp)<br>
+5. ⬆️ Pushed 1 commit(s) to [nicolas1996-ing/01-intro](https://github.com/nicolas1996-ing/01-intro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 5th, 2025, 1:02:13 PM
+Last Updated: Saturday, September 6th, 2025, 1:02:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
