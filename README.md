@@ -26,13 +26,13 @@ Mechatronic Engineer, software developer, and educator with over 3 years of expe
 
 ### :zap: Actividad reciente 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [20250801-ucp-ciaf/auth-system-backend](https://github.com/20250801-ucp-ciaf/auth-system-backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [20250801-ucp-ciaf/gifs-app-v2](https://github.com/20250801-ucp-ciaf/gifs-app-v2)<br>
 2. ⬆️ Pushed undefined commit(s) to [20250801-ucp-ciaf/auth-system-backend](https://github.com/20250801-ucp-ciaf/auth-system-backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [20250801-ucp-ciaf/auth-system-backend](https://github.com/20250801-ucp-ciaf/auth-system-backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [20250801-ucp-ciaf/todo-app](https://github.com/20250801-ucp-ciaf/todo-app)<br>
-5. ⬆️ Pushed undefined commit(s) to [Wilo92/cypress_test](https://github.com/Wilo92/cypress_test)<br>
+4. ⬆️ Pushed undefined commit(s) to [20250801-ucp-ciaf/auth-system-backend](https://github.com/20250801-ucp-ciaf/auth-system-backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [20250801-ucp-ciaf/todo-app](https://github.com/20250801-ucp-ciaf/todo-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 21st, 2025, 1:08:45 AM
+Last Updated: Friday, November 21st, 2025, 12:28:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
